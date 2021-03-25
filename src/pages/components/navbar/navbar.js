@@ -25,7 +25,7 @@ function Navbar() {
                 </li>
               </ul>
               <div>
-                <a target="_blank" href="/resume.pdf" className="resume-button">Resume</a>
+                <a target="_blank" href="https://drive.google.com/file/d/1fEB61K0ypOM1ZqQ2kQin6Hcrmf_PXX17/view?usp=sharing" className="resume-button">Resume</a>
               </div>
           </div>
         </nav>

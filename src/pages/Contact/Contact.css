@@ -1,0 +1,27 @@
+.contact {
+    max-width: 600px;
+    text-align: center;
+    margin: 0px auto 100px;
+    padding: 100px 0px;
+    width: 100%;
+}
+
+.contact .heading {
+    justify-content: center;
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.contact .heading::after{
+    display: none;
+}
+.contact .title {
+    font-size: clamp(40px, 5vw, 60px);
+    font-family: var(--font-display);
+}
+
+@media (max-width: 768px){
+    .contact {
+        margin: 0px auto 50px;
+    }
+}

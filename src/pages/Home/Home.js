@@ -1,8 +1,11 @@
-import Navbar from '../components/navbar/navbar'
-import './Home.css';
-import About from '../About/About'
+import About from '../About/About';
+import Navbar from '../components/navbar/navbar';
+import Contact from '../Contact/Contact';
 import Experience from '../Experience/Experience';
+import Footer from '../Footer/Footer';
 import Headline from '../Headline/Headline';
+import Work from '../Work/Work';
+import './Home.css';
 
 function Home() {
     return (
@@ -13,6 +16,9 @@ function Home() {
                     <Headline />
                     <About />
                     <Experience/>
+                    <Work />
+                    <Contact />
+                    <Footer />
                 </div>
             </div>
         </div>
