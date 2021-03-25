@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cratest/static/css/main.323cbc10.chunk.css",
-    "main.js": "/cratest/static/js/main.29cff93b.chunk.js",
-    "main.js.map": "/cratest/static/js/main.29cff93b.chunk.js.map",
+    "main.js": "/cratest/static/js/main.ce19225e.chunk.js",
+    "main.js.map": "/cratest/static/js/main.ce19225e.chunk.js.map",
     "runtime-main.js": "/cratest/static/js/runtime-main.c33df900.js",
     "runtime-main.js.map": "/cratest/static/js/runtime-main.c33df900.js.map",
     "static/js/2.d40cc763.chunk.js": "/cratest/static/js/2.d40cc763.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c33df900.js",
     "static/js/2.d40cc763.chunk.js",
     "static/css/main.323cbc10.chunk.css",
-    "static/js/main.29cff93b.chunk.js"
+    "static/js/main.ce19225e.chunk.js"
   ]
 }
