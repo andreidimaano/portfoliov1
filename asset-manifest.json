@@ -1,23 +1,20 @@
 {
   "files": {
     "main.css": "/cratest/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/cratest/static/js/main.9a453c8c.chunk.js",
-    "main.js.map": "/cratest/static/js/main.9a453c8c.chunk.js.map",
-    "runtime-main.js": "/cratest/static/js/runtime-main.2f3b850a.js",
-    "runtime-main.js.map": "/cratest/static/js/runtime-main.2f3b850a.js.map",
+    "main.js": "/cratest/static/js/main.f5698943.chunk.js",
+    "main.js.map": "/cratest/static/js/main.f5698943.chunk.js.map",
+    "runtime-main.js": "/cratest/static/js/runtime-main.c33df900.js",
+    "runtime-main.js.map": "/cratest/static/js/runtime-main.c33df900.js.map",
     "static/js/2.c6584c8c.chunk.js": "/cratest/static/js/2.c6584c8c.chunk.js",
     "static/js/2.c6584c8c.chunk.js.map": "/cratest/static/js/2.c6584c8c.chunk.js.map",
-    "static/js/3.6365f616.chunk.js": "/cratest/static/js/3.6365f616.chunk.js",
-    "static/js/3.6365f616.chunk.js.map": "/cratest/static/js/3.6365f616.chunk.js.map",
     "index.html": "/cratest/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/cratest/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.c6584c8c.chunk.js.LICENSE.txt": "/cratest/static/js/2.c6584c8c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cratest/static/media/logo.6ce24c58.svg"
+    "static/js/2.c6584c8c.chunk.js.LICENSE.txt": "/cratest/static/js/2.c6584c8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f3b850a.js",
+    "static/js/runtime-main.c33df900.js",
     "static/js/2.c6584c8c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9a453c8c.chunk.js"
+    "static/js/main.f5698943.chunk.js"
   ]
 }
