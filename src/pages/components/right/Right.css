@@ -1,0 +1,44 @@
+.right{
+    width: 40px;
+    position: fixed;
+    bottom: 0px;
+    left: auto;
+    right: 40px;
+    z-index: 10;
+    color: var(--light-gray);
+}
+
+
+.right:hover {
+    color: var(--accent-color);
+}
+
+.right-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.right-container a {
+    margin: 20px auto;
+    padding: 10px;
+    font-family: var(--font-mono);
+    font-size: var(--fz-xxs);
+    letter-spacing: 0.1em;
+    writing-mode: vertical-rl;
+}
+
+.right-container::after{
+    content: "";
+    display: block;
+    width: 1px;
+    height: 64px;
+    margin: 0px auto;
+    background-color: var(--light-gray);
+}
+
+@media (max-width: 768px){
+    .right {
+        display: none;
+    }
+}
